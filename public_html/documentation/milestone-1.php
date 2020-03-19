@@ -8,7 +8,6 @@
 
 <h1>Corrigan's Personal Webpage</h1>
 
-<div>
 	<img src="lawyer-photo.jpg" alt = "lawyer-photo" id = "lawyer-photo">
 
 	<h2>Persona</h2>
@@ -38,6 +37,5 @@
 		<li>Which will increase revenue and to make him more visible in the community.</li>
 	</p>
 
-</div>
 </body>
 </html>

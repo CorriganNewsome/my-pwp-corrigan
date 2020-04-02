@@ -11,17 +11,27 @@
 	<img src= "mobile-pg1.jpg" alt = "mobile-1" id = "mobile-pg1">
 	<img src="mobile-pg2.jpg" alt = "mobile-2" id="mobile-pg2">
 	<img src="web-pg1.jpg" alt = "web-1" id="web-pg1">
-	<img src="web-pg2.jpg" alt = "web-1" id="web-pg1">
+	<img src="web-pg2.jpg" alt = "web-2" id="web-pg2">
 
 <h2>Content Strategy</h2>
-	<p>
-		Document in detail the content you plan to feature in each section of your site.
-		Be sure to include any details regarding interactive features and functionality that you wish to include.
-		You are not expected to have any actual content prepared at this time,
-		rather only a plan for the kind of content you would like to feature.
-		Keep this section brief and succinct, yet detailed enough to guide your development phase.
-		One paragraph per content section should be sufficient. Use the Sample PWP Milestones as a guide.
-	</p>
+
+		<strong>About Us</strong>
+	<ul>
+		<li>This section will have information regarding my brother Abe. It will list information about his education,
+			and experience regarding his court reporting as well as have some other bits of information about the business as a whole.</li>
+	</ul>
+
+		<strong>Areas We Serve</strong>
+	<ul>
+			<li>In the Areas We Serve section, I will put all the areas that my brother will serve his clients.</li>
+	</ul>
+
+	<strong>Contact Us</strong>
+	<ul>
+			<li>This section will have sections where interested individuals can input information about themselves such as name,
+			email, phone number, date of requested depo, and a section to leave a brief message. I will also put links to Abe's social
+			media pages at the bottom of the contact us page.</li>
+	</ul>
 
 </body>
 </html>

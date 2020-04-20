@@ -6,6 +6,7 @@
 </head>
 <body>
 
+
 <h1>Corrigan's Personal Webpage</h1>
 
 	<img src="lawyer-photo.jpg" alt = "lawyer-photo" id = "lawyer-photo">
@@ -39,6 +40,7 @@
 			<li>Bring more traffic to my younger brothers business</li>
 		<li>Which will increase revenue and to make him more visible in the community.</li>
 	</ol>
+
 
 </body>
 </html>

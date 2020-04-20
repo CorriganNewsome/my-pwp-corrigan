@@ -50,7 +50,7 @@
 			<div class="col-lg-6 col-sm-6">
 				<h1>About Us</h1>
 				<div class="card">
-					<div class="card-body">Doncaster Court Reporting LLC. is a professional court reporting company with impeccable customer service based in southern New Mexico. </p>
+					<div class="card-body">Doncaster Court Reporting LLC. is a professional court reporting company with impeccable customer service based in southern New Mexico
 					</div>
 				</div>
 			</div>
@@ -59,22 +59,22 @@
 				<h1>Areas We Serve</h1>
 				<div class="card">
 					<div class="card-body">
-						<p class="card-text">
-						<ul>
-							<li>Roswell</li>
-							<li>Carlsbad</li>
-							<li>Ruidoso</li>
-							<li>Alamagordo</li>
-							<li>Artesia</li>
-							<li>Clovis</li>
-						</ul>
-
+						<div class="card-text">
+							<ul>
+								<li>Roswell</li>
+								<li>Carlsbad</li>
+								<li>Ruidoso</li>
+								<li>Alamagordo</li>
+								<li>Artesia</li>
+								<li>Clovis</li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+	</div>
 </section>
-
 
 <div class="container py-5">
 	<h1>Contact Us</h1>
@@ -86,19 +86,19 @@
 			</div>
 			<div class="form-group">
 				<label for="exampleFormControlInput1">Phone Number</label>
-				<input type="tel" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+				<input type="tel" class="form-control" id="exampleFormControlInput2" placeholder="name@example.com">
 			</div>
 			<div class="form-group">
 				<label for="exampleFormControlInput1">Business Address</label>
-				<input type="text" class="form-control" id="exampleFormControlInput1" placeholder="123 Main St">
+				<input type="text" class="form-control" id="exampleFormControlInput3" placeholder="123 Main St">
 			</div>
 			<div class="form-group">
 				<label for="exampleFormControlInput1">Email address</label>
-				<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+				<input type="email" class="form-control" id="exampleFormControlInput4" placeholder="name@example.com">
 			</div>
 			<div class="form-group">
 				<label for="exampleFormControlInput1">Date of Deposition</label>
-				<input type="date" class="form-control" id="exampleFormControlInput1" placeholder="01/01/2000">
+				<input type="date" class="form-control" id="exampleFormControlInput5">
 			</div>
 			<div class="form-group">
 				<label for="exampleFormControlTextarea1">Message</label>
@@ -108,13 +108,3 @@
 		</section>
 	</form>
 </div>
-
-
-
-
-
-
-
-
-</body>
-</html>

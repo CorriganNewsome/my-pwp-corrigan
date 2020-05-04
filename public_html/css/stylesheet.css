@@ -1,3 +1,47 @@
-h1{
-	color: red;
+body{
+	background-color: lightgray;
+}
+
+.carousel {
+	margin-top: 3rem;
+}
+
+.navBarContainer {
+	background-color: lightgray;
+}
+
+#aboutUsContainer {
+	background-color: turquoise;
+}
+
+#areasWeServeContainer {
+	background-color: turquoise;
+}
+
+#servicesOfferedContainer {
+	background-color: turquoise;
+}
+
+#contactUs {
+	background-color: turquoise;
+}
+
+.navBar {
+	background-color: turquoise;
+}
+
+.linkBar {
+	background-color: turquoise;
+}
+
+#linkBar{
+	background-color: turquoise;
+}
+
+#navBar{
+	background-color: turquoise;
+}
+
+#footerSection {
+	background-color: darkgray;
 }

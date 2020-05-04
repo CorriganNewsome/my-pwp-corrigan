@@ -26,6 +26,7 @@ $(document).ready(function(){
 		// each rule starts with the form input element's NAME attribute
 		rules: {
 			contactName: {
+				name: true,
 				required: true
 			},
 			contactEmail: {

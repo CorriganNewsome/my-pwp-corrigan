@@ -1,47 +1,36 @@
 body{
 	background-color: lightgray;
 }
+#navBar {
+	background-color: darkturquoise;
+	padding-bottom: 3em;
+	padding-top: 2em;
+}
 
 .carousel {
 	margin-top: 3rem;
 }
 
 .navBarContainer {
-	background-color: lightgray;
+	background-color: darkturquoise;
 }
 
 #aboutUsContainer {
-	background-color: turquoise;
+	background-color: paleturquoise;
 }
 
 #areasWeServeContainer {
-	background-color: turquoise;
+	background-color: mediumturquoise;
 }
 
 #servicesOfferedContainer {
-	background-color: turquoise;
+	background-color: darkturquoise;
 }
 
 #contactUs {
-	background-color: turquoise;
-}
-
-.navBar {
-	background-color: turquoise;
-}
-
-.linkBar {
-	background-color: turquoise;
-}
-
-#linkBar{
-	background-color: turquoise;
-}
-
-#navBar{
-	background-color: turquoise;
+	background-color: steelblue;
 }
 
 #footerSection {
-	background-color: darkgray;
+	background-color: darkturquoise;
 }
